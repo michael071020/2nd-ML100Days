@@ -7,3 +7,4 @@ Homework/titanic_baseline.csv
 Homework/data/titanic_train.csv
 Homework/data/titanic_test.csv
 *.gz
+*.csv
